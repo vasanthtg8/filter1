@@ -5,8 +5,7 @@
 
 class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {},
-    
-Mʏ Nᴀᴍe Is Movieloverzz_bot ɪ ᴀᴍ ᴘᴏᴡᴇʀ ғᴜʟʟ Movie Search Bot And Advanced Online Watching and Fast Download BOT. But No Theatre Prints Available in MY DB So Dont Search Theatre Prints 🤷‍♂️ !!</b>"""
+Mʏ Nᴀᴍe Is Movieloverzz_bot ɪ ᴀᴍ ᴘᴏᴡᴇʀ ғᴜʟʟ Movie Search Bot And Advanced Online Watching and Fast Download BOT. But No Theatre Prints Available in MY DB So Dont Search Theatre Prints 🤷‍♂️ </b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
@@ -674,7 +673,7 @@ Also your tutorial will be Added Your Group..."""
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developers -
 
--Dev 1 [Owner of this bot ]<a href='https://t.me/IM_JISSHU'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a>
+-Dev 1 [Owner of this bot ]<a href='https://t.me/MOVIE_LOVERZZ>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a>
 
 -Dev 2 <a href='https://t.me/MOVIE_LOVERZZ'>VJ</a>
 
