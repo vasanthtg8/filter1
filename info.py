@@ -95,7 +95,6 @@ SEASONS = ["season 1" , "season 2" , "season 3" , "season 4", "season 5" , "seas
                            # Subscribe YouTube Channel For Amazing Bot @movie_file_20
                            # Ask Doubt on telegram @KingVJ01
 
-
 # Online Stream and Download
 NO_PORT = bool(environ.get('NO_PORT', False))
 APP_NAME = None
@@ -124,7 +123,7 @@ HAS_SSL=bool(getenv('HAS_SSL',False))
 if HAS_SSL:
     URL = "https://moviesuniverse-704fef876ee6.herokuapp.com/".format(FQDN)
 else:
-    URL = "https://moviesuniverse-704fef876ee6.herokuapp.com/".format(FQDN)
+    URL = "https://moviesuniverse-704fef876ee6.herokuapp.com/".format(FQDN)".format(FQDN)
 
 
 
