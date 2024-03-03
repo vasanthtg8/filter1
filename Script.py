@@ -5,7 +5,7 @@
 
 class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {},
-Mʏ Nᴀᴍe Is Movieloverzz_bot ɪ ᴀᴍ ᴘᴏᴡᴇʀ ғᴜʟʟ Movie Search Bot And Advanced Online Watching and Fast Download BOT. But No Theatre Prints Available in MY DB So Dont Search Theatre Prints 🤷‍♂️ </b>"""
+Mʏ Nᴀᴍe Is @MoviesU2bot ɪ ᴀᴍ ᴘᴏᴡᴇʀ ғᴜʟʟ Movie Search Bot And Advanced Online Watching and Fast Download BOT. But No Theatre Prints Available in MY DB So Dont Search Theatre Prints 🤷‍♂️ </b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
@@ -24,7 +24,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 🌿 ᴍᴀɴᴀɢᴇᴅ ʙʏ : <a href='https://t.me/MoviesU2'>MOVIES UNIVERSE</a></b>"""
 
     ABOUT_TXT = """<b>⍟───[ ʙᴏᴛ ᴅᴇᴛᴀɪʟꜱ ]───⍟
- ‣ ᴍʏ ɴᴀᴍᴇ : Movieloverzzbot
+ ‣ ᴍʏ ɴᴀᴍᴇ : @MoviesU2bot
  ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/MoviesU2'>MOVIES UNIVERSE</a> 
  ‣ ʙᴏᴛ sᴇʀᴠᴇʀ : <a href='https://render.com'>ʀᴇɴᴅᴇʀ</a> 
  ‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ2.7.1 [sᴛᴀʙʟᴇ]></b>"""
