@@ -123,7 +123,7 @@ HAS_SSL=bool(getenv('HAS_SSL',False))
 if HAS_SSL:
     URL = "https://moviesuniverse-704fef876ee6.herokuapp.com/".format(FQDN)
 else:
-    URL = "https://moviesuniverse-704fef876ee6.herokuapp.com/".format(FQDN)".format(FQDN)
+    URL = "https://moviesuniverse-704fef876ee6.herokuapp.com/".format(FQDN)
 
 
 
