@@ -97,7 +97,7 @@ SEASONS = ["season 1" , "season 2" , "season 3" , "season 4", "season 5" , "seas
 
 # Online Stream and Download
 NO_PORT = bool(environ.get('NO_PORT', False))
-APP_NAME = moviesuniverse1
+APP_NAME = None
 if 'DYNO' in environ:
     ON_HEROKU = True
     APP_NAME = environ.get('APP_NAME')
@@ -105,7 +105,7 @@ else:
     ON_HEROKU = False
 BIND_ADRESS = str(getenv('WEB_SERVER_BIND_ADDRESS', '0.0.0.0'))
 FQDN = str(getenv('FQDN', BIND_ADRESS)) if not ON_HEROKU or getenv('FQDN') else (APP_NAME or '') + '.herokuapp.com'
-URL = "https://moviesuniverse1-25482bbdd4c3.herokuapp.com".format(FQDN) if ON_HEROKU or NO_PORT else \
+URL = "moviesuniverse1-25482bbdd4c3.herokuapp.com".format(FQDN) if ON_HEROKU or NO_PORT else \
     "https://moviesuniverse1-25482bbdd4c3.herokuapp.com/".format(FQDN, PORT)
 SLEEP_THRESHOLD = int(environ.get('SLEEP_THRESHOLD', '60'))
 WORKERS = int(environ.get('WORKERS', '4'))
